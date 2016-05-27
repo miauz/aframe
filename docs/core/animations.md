@@ -59,7 +59,7 @@ For example, we can define an animation that toggles off the visibility of an en
 
 ```html
 <a-entity>
-  <a-animation attribute="visible" dur="5000" to="false" repeat="indefinite"></a-animation>
+  <a-animation attribute="visible" begin="5000" to="false" repeat="indefinite"></a-animation>
 </a-entity>
 ```
 
