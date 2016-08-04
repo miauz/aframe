@@ -421,7 +421,7 @@ wait the appropriate amount of time, and swap the image:
 
 And that concludes our 360&deg; image viewer.
 
-> **[Try it out!](https://aframe.io/360-image-viewer-boilerplate/)**
+> **[Try it out!](https://aframe.io/360-image-gallery-boilerplate/)**
 
 [a-sky]: ../primitives/a-sky.md
 [ams]: ../core/asset-management-system.md
