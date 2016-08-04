@@ -6,7 +6,7 @@ parent_section: guide
 order: 4
 ---
 
-> Fork the [360&deg; Image Viewer Boilerplate on GitHub](https://github.com/aframevr/360-image-browser-boilerplate).
+> Fork the [360&deg; Image Viewer Boilerplate on GitHub](https://github.com/aframevr/360-image-gallery-boilerplate).
 
 ![360&deg; Image Viewer](/images/docs/360-image-viewer.png)
 
