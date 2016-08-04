@@ -57,7 +57,7 @@ and reusability.
 [hardware]: ../guide/device-and-platform-support.md#hardware-specifications
 [leapmotion]: https://developer.leapmotion.com/assets/Leap%20Motion%20VR%20Best%20Practices%20Guidelines.pdf
 [merge]: ../components/geometry.md#mergeto
-[mixins]: ../components/mixins.md
+[mixins]: ../core/mixins.md
 [oculus]: https://developer.oculus.com/documentation/intro-vr/latest/concepts/bp_intro/
 [stats]: ../components/stats.md
 [template]: https://github.com/ngokevin/aframe-template-component
